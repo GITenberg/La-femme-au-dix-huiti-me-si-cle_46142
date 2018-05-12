@@ -26,6 +26,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Edmond_de_Goncourt
     - http://en.wikipedia.org/wiki/Edmond_de_Goncourt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46142#La-femme-au-dix-huiti-me-si-cle
 gutenberg_bookshelf: FR Peuples et Sociétés
 gutenberg_issued: '2014-06-29'
 gutenberg_type: Text
