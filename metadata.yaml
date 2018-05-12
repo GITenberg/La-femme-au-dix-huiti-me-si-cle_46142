@@ -1,0 +1,47 @@
+_repo: La-femme-au-dix-huiti-me-si-cle_46142
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46142-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Goncourt, Jules de
+    aliases:
+    - De Goncourt, Jules
+    - Goncourt, Jules Alfred Huot de
+    birthdate: 1830
+    deathdate: 1870
+    gutenberg_agent_id: '5694'
+    url: http://www.gutenberg.org/2009/agents/5694
+    wikipedia: http://fr.wikipedia.org/wiki/Jules_de_Goncourt
+  - agent_name: Goncourt, Edmond de
+    aliases:
+    - De Goncourt, Edmond
+    - Goncourt, Edmond Louis Antoine Huot de
+    birthdate: 1822
+    deathdate: 1896
+    gutenberg_agent_id: '5693'
+    url: http://www.gutenberg.org/2009/agents/5693
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edmond_de_Goncourt
+    - http://en.wikipedia.org/wiki/Edmond_de_Goncourt
+description: ''
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2014-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46142'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eighteenth century'
+- !lcsh 'Salons -- France -- History -- 18th century'
+- !lcsh 'Women and literature -- France -- History -- 18th century'
+- !lcc 'HQ'
+- !lcsh 'Women -- Social and moral questions'
+- !lcsh 'France -- Social life and customs -- 18th century'
+- !lcsh 'Women -- France -- History -- 18th century'
+title: La femme au dix-huitième siècle
+url: http://www.gutenberg.org/ebooks/46142
